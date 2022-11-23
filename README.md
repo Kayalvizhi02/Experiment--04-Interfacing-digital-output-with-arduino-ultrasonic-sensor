@@ -90,35 +90,18 @@ void loop() {
 }
 
 ```
-### Distance vs measurement table 
-
-			
- 
-			
-			
-			
-
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
-
-			
-			
-			
-			
-			
-			Average error = sum/ number of readings 
- 
-
-
-
-
-
 
 ### OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/75413726/203582349-a2953acc-412c-4c12-b2b5-18a416fe8d06.png)
 
+![image](https://user-images.githubusercontent.com/75413726/203583218-51fde1bb-a707-4821-93f6-2677b3c149fa.png)
+
 
 ### RESULTS:
+
+Thus, we have interfaced an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied is verified.
+
 
 
 
