@@ -95,8 +95,7 @@ void loop() {
 
 ![image](https://user-images.githubusercontent.com/75413726/203582349-a2953acc-412c-4c12-b2b5-18a416fe8d06.png)
 
-![image](https://user-images.githubusercontent.com/75413726/203583218-51fde1bb-a707-4821-93f6-2677b3c149fa.png)
-
+![image](https://user-images.githubusercontent.com/75413726/203583943-82022a41-de9e-4a6e-a404-895863e6c53d.png)
 
 ### RESULTS:
 
